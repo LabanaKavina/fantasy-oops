@@ -1,12 +1,9 @@
 import { CricketerMapper } from "./cricketerMapper";
-import { Match, ITeam } from "./match";
 import { playersData } from "./playersData";
 import { Cricket } from "./cricket/cricket";
-import { Kabaddi } from "./kabaddi/kabaddi";
 import { TossDecider } from "./tossDecider";
 import { Player } from "./player";
 import { CricketTeam } from "./cricket/cricketTeam";
-import { KabaddiTeam } from "./kabaddi/kabaddiTeam";
 import { MatchFactory } from "./matchFactory";
 import { Score } from "./score";
 
